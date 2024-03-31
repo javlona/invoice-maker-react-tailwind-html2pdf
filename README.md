@@ -5,6 +5,9 @@ Welcome to the React PDF Invoice Generator repository! This spartan yet powerful
 **🔗 Demo:**
 Check out the live demo [here](https://invoicely-javlon.netlify.app/)!
 
+<p align="center">**📸 Screenshot:**<br>
+<img width="539" alt="image" src="https://github.com/javlona/invoice-maker-react-tailwind-html2pdf/assets/59303287/00e48984-a7eb-4c7d-a174-a679cfec4db2">
+
 **🔥 Features:**
 - 📝 Generate PDF invoices effortlessly.
 - 💻 Built with React.
@@ -21,8 +24,7 @@ Check out the live demo [here](https://invoicely-javlon.netlify.app/)!
 5. Open your browser and navigate to `http://localhost:3000`.
 6. Generate your first PDF invoice!
 
-**📸 Screenshot:**
-<img width="539" alt="image" src="https://github.com/javlona/invoice-maker-react-tailwind-html2pdf/assets/59303287/00e48984-a7eb-4c7d-a174-a679cfec4db2">
+
 
 
 
